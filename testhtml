@@ -12,5 +12,6 @@
     <p>Commit!commit!</p>
     <p>Constrvucted new branch</p>
     <p>merge this file to master</p>
+    <p>Another change to merge to master</p>
   </body>
 </html>
